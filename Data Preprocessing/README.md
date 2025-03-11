@@ -73,6 +73,7 @@ pip install numpy pandas scikit-learn matplotlib
 This project is created as a part of learning and implementing data preprocessing techniques in Machine Learning.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Apache 2.0 License** – see the [LICENSE](LICENSE) file for details.  
+
 
 
