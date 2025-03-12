@@ -60,3 +60,7 @@ Each regression algorithm has its respective dataset for training and evaluation
 
 ## **📜 License**
   This project is licensed under the Apache 2.0 License. See the LICENSE file for more details.
+
+## **📌 Note**
+   The numbering (1.a, 1.b, etc.) is used to maintain a structured and logical flow of algorithms.
+   Contributions and improvements are welcome! 🚀
