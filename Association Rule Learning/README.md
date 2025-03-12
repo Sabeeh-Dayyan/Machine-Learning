@@ -41,7 +41,7 @@ The dataset used for both algorithms is:
 ## 🚀 **How to Run the Code**
 1. Clone the repository:
    
-   git clone https://github.com/your-username/Machine-Learning.git
+   git clone https://github.com/Sabeeh-Dayyan/Machine-Learning.git
    cd Machine-Learning/Association Rule Learning
 
 2. Install dependencies:
