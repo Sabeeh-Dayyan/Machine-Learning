@@ -32,7 +32,7 @@ This repository provides a collection of fundamental **machine learning algorith
 To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
-   git clone https://github.com/your-username/Machine-Learning.git
+   git clone https://github.com/Sabeeh-Dayyan/Machine-Learning.git
    cd Machine-Learning
    
 2. **Create a virtual environment and install dependencies:**
